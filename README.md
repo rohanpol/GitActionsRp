@@ -6,3 +6,4 @@ commands
 5 git push
 6 git remode add <remote branch>
 7 git reset --hard <commit id>
+8 gh repo clone rohanpol/GitActionsRp
