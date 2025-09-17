@@ -9,4 +9,5 @@ commands
 8 gh repo clone rohanpol/GitActionsRp
 9 git pull
 9 git pull origin master
-10 
+10 git remote
+11 git remote get-url origin
